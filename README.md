@@ -1,4 +1,4 @@
-### Hi there, welcome to my Github page! 👋
+### Hello World, I'm Sean! 👋
 
 - 🔭 I’m currently working on refining apps using full stack, MERN stack, and pure javascript
 - 🌱 I’m currently learning how to crush technical interviews
