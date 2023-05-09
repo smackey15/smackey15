@@ -1,6 +1,6 @@
 ### Hello World, I'm Sean! 👋
 
-- 🌱 I’m currently learning how to crush technical interviews
+- 🌱 I’m currently harnessing the power of TypeScript
 - 👯 I’m looking to collaborate on open source 
 - 📫 How to reach me: seanmackey315@gmail.com
 - 😄 Pronouns: He/Him
